@@ -1,0 +1,7 @@
+dashboard_config.json
+query_cache_v3.json
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
